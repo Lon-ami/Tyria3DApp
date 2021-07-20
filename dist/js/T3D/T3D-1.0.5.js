@@ -1222,8 +1222,8 @@ module.exports = {
         { fileName: "195493.data", name: "(1-15) Metrica Province [MapWetlandRiverside]" },
         { fileName: "293307.data", name: "(15-25) Brisban Wildlands [MapWetlandGrotto]" },
         { fileName: "295962.data", name: "(Instance) A Vision of Darkness, A Light in the Darkness <The Grove, Cursed Shore> [MapWetlandDestiny]" },
-        { fileName: "291284.data", name: "(Dungeon) Twilight Arbor (Story) [MapWetlandGarden]" },
-        { fileName: "645968.data", name: "(Dungeon) Twilight Arbor (Explorable) [MapWetlandGardenRepeat]" },
+        { fileName: "291284.data", name: "(Dungeon/Story) Twilight Arbor [MapWetlandGarden]" },
+        { fileName: "645968.data", name: "(Dungeon/Explorable) Twilight Arbor [MapWetlandGardenRepeat]" },
         { fileName: "292254.data", name: "(55-65) Sparkfly Fen [MapWetlandGlade]" },
         { fileName: "291064.data", name: "(60-70) Mount Maelstrom [MapWetlandCape]" },
         { fileName: "293606.data", name: "(Dungeon) Crucible of Eternity [MapWetlandWeapon]" }
@@ -1236,8 +1236,8 @@ module.exports = {
         { fileName: "295179.data", name: "(Instance) Temple of the Forgotten God <Straits of Devastation> [MapRisenBeachheadAbaddon]" },
         { fileName: "285089.data", name: "(75-80) Malchor's Leap [MapRisenCliff]" },
         { fileName: "285634.data", name: "(80) Cursed Shore [MapRisenShore]" },
-        { fileName: "473765.data", name: "(Dungeon) The Ruined City of Arah (Story) [MapRisenDragonStory]" },
-        { fileName: "473930.data", name: "(Dungeon) The Ruined City of Arah (Explorable) [MapRisenDragonRepeat]" }
+        { fileName: "473765.data", name: "(Dungeon/Story) The Ruined City of Arah [MapRisenDragonStory]" },
+        { fileName: "473930.data", name: "(Dungeon/Explorable) The Ruined City of Arah [MapRisenDragonRepeat]" }
       ]
     },
     {
@@ -1249,7 +1249,7 @@ module.exports = {
         { fileName: "595722.data", name: "(LW1.E8) Aetherblade Retreat [MapValleyArchDungeon]" },
         { fileName: "672138.data", name: "(LW1.E13.1) The Nightmare Unveiled <Kessex Hills> [MapValleyWildernessKraitTowerInstance]" },
         { fileName: "679089.data", name: "(LW1.E14) Tower of Nightmares [MapValleyWildernessKraitTowerInterior]" },
-        { fileName: "2469960.data", name: "(LW1.E16) Lornar's Pass [MapAlpineSlopeMarionette]" }
+        { fileName: "2469960.data", name: "(LW1.E16) The Twisted Marionette <Lornar's Pass> [MapAlpineSlopeMarionette]" }
       ]
     },
     {
@@ -1372,11 +1372,11 @@ module.exports = {
       maps: [
         { fileName: "1733961.data", name: "(Lounge) Mistlock Sanctuary [MapInfiniteCosmicVIPLounge]" },
         { fileName: "1498016.data", name: "(FotM.0) Mistlock Observatory [MapInfiniteHub]" },
-        { fileName: "519839.data", name: "(FotM.1-FotM.9) Fractals of the Mists [MapInfiniteIslands]" },
-        { fileName: "2187042.data", name: "(FotM.1-FotM.9) Aquatic Ruins [MapInfiniteUnderwater]" },
-        { fileName: "1426653.data", name: "(FotM.1-FotM.9) Cliffside [MapInfiniteCliffside]" },
-        { fileName: "1472382.data", name: "(FotM.1-FotM.9) Snowblind [MapInfiniteSnowblind]" },
-        { fileName: "1472406.data", name: "(FotM.1-FotM.9) Swampland [MapInfiniteSwamp]" },
+        { fileName: "519839.data", name: "(FotM.0-FotM.9) Fractals of the Mists [MapInfiniteIslands]" },
+        { fileName: "2187042.data", name: "(FotM.0-FotM.9) Aquatic Ruins [MapInfiniteUnderwater]" },
+        { fileName: "1426653.data", name: "(FotM.0-FotM.9) Cliffside [MapInfiniteCliffside]" },
+        { fileName: "1472382.data", name: "(FotM.0-FotM.9) Snowblind [MapInfiniteSnowblind]" },
+        { fileName: "1472406.data", name: "(FotM.0-FotM.9) Swampland [MapInfiniteSwamp]" },
         { fileName: "1498798.data", name: "(FotM.10-FotM.14) Aetherblade, Captain Mai Trin Boss <Aetherblade Retreat> [MapValleyArchDungeonUpdated02]" },
         { fileName: "1905739.data", name: "(FotM.10-FotM.14) Molten Furnace, Molten Boss <Molten Facility> [MapFlameFrostFractalExtended]" },
         { fileName: "697450.data", name: "(FotM.10-FotM.14) Thaumanova Reactor [MapInfiniteReactor]" },
@@ -1495,7 +1495,7 @@ module.exports = {
         { fileName: "184799.data", name: "Dummy Map [MapDummy]" },
         { fileName: "193081.data", name: "Lake Doric [MapValleyReach]" },
         { fileName: "197562.data", name: "Preparing for PvP [MapPvPBlackBox]" },
-        { fileName: "875614.data", name: "(((Unknown Mists Platforms)))" },
+        { fileName: "875614.data", name: "(((Unknown Mists Platforms))) [MapTutorialChina]" },
         { fileName: "969964.data", name: "Verdant Brink (PAX 2015 Demo) [MapRootsAfterShip]" },
         { fileName: "1255516.data", name: "Guild Coliseum [MapGuildColiseum]" },
         { fileName: "1255634.data", name: "(((Unknown Town)))" },
