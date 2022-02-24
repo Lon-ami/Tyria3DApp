@@ -1251,7 +1251,7 @@ module.exports = {
       ]
     },
     {
-      name: "(LW1) Scarlet's War",
+      name: "(LW1) Living World Season 1: Scarlet's War",
       maps: [
         { fileName: "520479.data", name: "(LW1.TLS, LW1.E5) Southsun Cove [MapEventValleyLost]" },
         { fileName: "568778.data", name: "(LW1.E3) Cragstead <Wayfarer Foothills, Diessa Plateau> [MapAlpineEnclave]" },
@@ -1268,7 +1268,7 @@ module.exports = {
       ]
     },
     {
-      name: "(LW2) Living World Season 2",
+      name: "(LW2) Living World Season 2: Glint's Prophecy",
       maps: [
         { fileName: "836211.data", name: "(LW2.E1, LW2.E2, LW2.E4) Dry Top [MapDryTop]" },
         { fileName: "861770.data", name: "(LW2.E1, LW2.E2, LW2.E4) Dry Top [MapDryTopE2]" },
@@ -1279,7 +1279,7 @@ module.exports = {
       ]
     },
     {
-      name: "(HoT) Heart of Thorns - Maguuma Jungle [Jungle]",
+      name: "(HoT) Guild Wars 2: Heart of Thorns - Maguuma Jungle [Jungle]",
       maps: [
         { fileName: "969663.data", name: "(HoT.A1) Verdant Brink [MapJungleFleet]" },
         { fileName: "1263739.data", name: "(HoT.A2) Auric Basin [MapJungleGold]" },
@@ -1289,7 +1289,7 @@ module.exports = {
       ]
     },
     {
-      name: "(LW3) Living World Season 3",
+      name: "(LW3) Living World Season 3: Glint's Legacy",
       maps: [
         { fileName: "1472635.data", name: "(LW3.E1) Bloodstone Fen [MapJungleBloodstone]" },
         { fileName: "1498071.data", name: "(LW3.E2.1) Taimi's Game [MapHoloRoom]" },
@@ -1305,7 +1305,7 @@ module.exports = {
       ]
     },
     {
-      name: "(PoF) Path of Fire - Crystal Desert [Desert]",
+      name: "(PoF) Guild Wars 2: Path of Fire - Crystal Desert [Desert]",
       maps: [
         { fileName: "1794574.data", name: "(PoF.A1) Crystal Oasis [MapDesertOasis]" },
         { fileName: "1833034.data", name: "(PoF.A2) Desert Highlands [MapDesertHighlands]" },
@@ -1317,7 +1317,7 @@ module.exports = {
       ]
     },
     {
-      name: "(LW4) Living World Season 4",
+      name: "(LW4) Living World Season 4: Rise of Kralkatorrik",
       maps: [
         { fileName: "1903523.data", name: "(LW4.E1.1) Eye of the Brandstorm <Crystal Oasis> [MapDesertOasisInstanceS4E1]" },
         { fileName: "1902235.data", name: "(LW4.E1) Domain of Istan [MapDesertJewel]" },
@@ -1337,7 +1337,7 @@ module.exports = {
         { fileName: "2093791.data", name: "(LW4.E5.1) Scion & Champion <Hidden Arcana> [MapThe_Begining]" },
         { fileName: "2092435.data", name: "(LW4.E5) Thunderhead Peaks [MapAlpineKeep]" },
         { fileName: "2092812.data", name: "(LW4.E5.3) The Crystal Blooms <Thunderhead Peaks> [MapAlpineKeepInstance]" },
-        { fileName: "2093450.data", name: "(LW4.E5.5) The Crystal Dragon <Thunderhead Peaks> [MapAlpineKeepInstanceKralk]" },
+        { fileName: "2093450.data", name: "(LW4.E5.5) The Crystal Dragon <The Crystal Blooms> [MapAlpineKeepInstanceKralk]" },
         { fileName: "2124612.data", name: "(LW4.PP) Mists Rift [MapBrandedMistfight]" },
         { fileName: "2146312.data", name: "(LW4.E6.1) The End <Thunderhead Peaks> [MapDesertDragonfallCh01]" },
         { fileName: "2146346.data", name: "(LW4.E6.1) Dragonflight [MapDesertDragonfallCh02]" },
@@ -1347,7 +1347,7 @@ module.exports = {
       ]
     },
     {
-      name: "(LW5) The Icebrood Saga: (SM) Strike Missions, (DRM) Dragon Response Missions",
+      name: "(LW5) Living World Season 5: The Icebrood Saga - (SM) Strike Missions, (DRM) Dragon Response Missions",
       maps: [
         { fileName: "2203371.data", name: "(LW5.E0, SM.1) Grothmar Valley, Shiverpeaks Pass [MapRegrownBlood]" },
         { fileName: "2204239.data", name: "(LW5.E0.3) Bad Blood <Grothmar Valley> [MapRegrownBloodCinematic]" },
@@ -1380,10 +1380,13 @@ module.exports = {
       ]
     },
     {
-      name: "(EoD) End of Dragons - WORK_IN_PROGRESS [WORK_IN_PROGRESS]",
+      name: "(EoD) Guild Wars 2: End of Dragons - (SM) Strike Missions - Cantha [WORK_IN_PROGRESS]",
       maps: [
-        { fileName: "WORK_IN_PROGRESS.data", name: "(WORK_IN_PROGRESS) Shing Jea Island [WORK_IN_PROGRESS]" },
-        { fileName: "WORK_IN_PROGRESS.data", name: "(WORK_IN_PROGRESS) Echovald Forest [WORK_IN_PROGRESS]" }
+        { fileName: "WORK_IN_PROGRESS.data", name: "(WORK_IN_PROGRESS) Seitung Province [WORK_IN_PROGRESS]" },
+        { fileName: "WORK_IN_PROGRESS.data", name: "(WORK_IN_PROGRESS) New Kaineng City [WORK_IN_PROGRESS]" },
+        { fileName: "WORK_IN_PROGRESS.data", name: "(Lobby) Arborstone [WORK_IN_PROGRESS]" },
+        { fileName: "WORK_IN_PROGRESS.data", name: "(WORK_IN_PROGRESS) The Echovald Wilds [WORK_IN_PROGRESS]" },
+        { fileName: "WORK_IN_PROGRESS.data", name: "(WORK_IN_PROGRESS) (((Jade Sea))) [WORK_IN_PROGRESS]" }
       ]
     },
     {
@@ -1431,7 +1434,7 @@ module.exports = {
       ]
     },
     {
-      name: "Player vs. Player: (CQ) Conquest, (MB) Murderball, (SH) Stronghold, (TD) Team Deathmatch",
+      name: "Player vs. Player - (CQ) Conquest, (MB) Murderball, (SH) Stronghold, (TDM) Team Deathmatch",
       maps: [
         { fileName: "132570.data", name: "(Lobby) Heart of the Mists" },
         { fileName: "197249.data", name: "(Lobby) Heart of the Mists [MapPvPLobby]" },
@@ -1461,24 +1464,24 @@ module.exports = {
         { fileName: "2065760.data", name: "(CQ.10) Djinn's Dominion [Mapdesertconq]" },
         { fileName: "2128938.data", name: "(CQ.10) Djinn's Dominion [MapDesertConqWallMid]" },
         { fileName: "2175965.data", name: "(CQ.10) Djinn's Dominion [MapDesertConqWallMid2]" },
-        { fileName: "791564.data", name: "(MB.1, TD.2) Courtyard [MapDMCourtyard]" },
-        { fileName: "1713054.data", name: "(MB.1, TD.2) Courtyard [MapDMCourtyard2]" },
+        { fileName: "791564.data", name: "(MB.1, TDM.2) Courtyard [MapDMCourtyard]" },
+        { fileName: "1713054.data", name: "(MB.1, TDM.2) Courtyard [MapDMCourtyard2]" },
         { fileName: "870987.data", name: "(SH.1) Battle of Champion's Dusk [MapPvPStrongholdCity]" },
         { fileName: "871093.data", name: "(SH.1) Battle of Champion's Dusk [MapPvPStrongholdCityMercs]" },
-        { fileName: "1712986.data", name: "(TD.1) Hall of the Mists [MapHallway2v2]" },
-        { fileName: "1712945.data", name: "(TD.3) Asura Arena [Mapasura2v2]" },
-        { fileName: "2187125.data", name: "(TD.4) Auric Span [MapJungle2v2]" }
+        { fileName: "1712986.data", name: "(TDM.1) Hall of the Mists [MapHallway2v2]" },
+        { fileName: "1712945.data", name: "(TDM.3) Asura Arena [Mapasura2v2]" },
+        { fileName: "2187125.data", name: "(TDM.4) Auric Span [MapJungle2v2]" }
       ]
     },
     {
-      name: "World vs. World: (MW) Mist War, (EotM) Edge of the Mists",
+      name: "World vs. World - (MW) Mist War, (EotM) Edge of the Mists",
       maps: [      
         { fileName: "2113077.data", name: "(Lounge) Armistice Bastion [MapWvwLounge]" },
-        { fileName: "131235.data", name: "(MW) Eternal Battlegrounds" },
-        { fileName: "195806.data", name: "(MW) Eternal Battlegrounds [MapWvWCenter]" },
-        { fileName: "1798709.data", name: "(MW) Eternal Battlegrounds [MapWvWCenterGliding]" },
-        { fileName: "1885693.data", name: "(MW) Eternal Battlegrounds [MapWvWCenter4]" },
-        { fileName: "2263889.data", name: "(MW) Eternal Battlegrounds [MapWvWCenterWallChange10_19]" },
+        { fileName: "131235.data", name: "(MW) Eternal Battlegrounds, Obsidian Sanctum" },
+        { fileName: "195806.data", name: "(MW) Eternal Battlegrounds, Obsidian Sanctum [MapWvWCenter]" },
+        { fileName: "1798709.data", name: "(MW) Eternal Battlegrounds, Obsidian Sanctum [MapWvWCenterGliding]" },
+        { fileName: "1885693.data", name: "(MW) Eternal Battlegrounds, Obsidian Sanctum [MapWvWCenter4]" },
+        { fileName: "2263889.data", name: "(MW) Eternal Battlegrounds, Obsidian Sanctum [MapWvWCenterWallChange10_19]" },
         { fileName: "131574.data", name: "(MW) Alpine Borderlands" },
         { fileName: "641501.data", name: "(MW) Alpine Borderlands [MapWvWRedHomeLake01]" },
         { fileName: "1799855.data", name: "(MW) Alpine Borderlands [MapWvWRedHomeLake01gliding]" },
@@ -1495,6 +1498,7 @@ module.exports = {
       maps: [
         { fileName: "506670.data", name: "(HW) Mad King's Labyrinth, Lunatic Inquisition [MapMadKingMaze]" },
         { fileName: "662436.data", name: "(HW) Mad King's Labyrinth, Lunatic Inquisition [MapMadKingMaze2013]" },
+        { fileName: "2499169.data", name: "(HW) Mad King's Labyrinth, Lunatic Inquisition [MapMadKingMaze2021]" },
         { fileName: "506739.data", name: "(HW) Mad King's Clock Tower [MapMadKingTower]" },
         { fileName: "506539.data", name: "(HW) Mad King's Raceway, Reaper's Rumble [MapMadKingField]" },
         { fileName: "506592.data", name: "(HW) Ascent to Madness [MapMadKingBoss]" }
@@ -1513,7 +1517,7 @@ module.exports = {
       name: "(SAB) Super Adventure Festival - Super Adventure Box [SAB]",
       maps: [
         { fileName: "569756.data", name: "(SAB) Super Adventure Box" },
-        { fileName: "636133.data", name: "(Lobby, SAB.0) Hub [MapSABHub]" },
+        { fileName: "636133.data", name: "(Lobby) Hub [MapSABHub]" },
         { fileName: "635555.data", name: "(SAB.1) World 1 [MapSABWorld1]" },
         { fileName: "635960.data", name: "(SAB.2) World 2 [MapSABWorld2]" }
       ]
