@@ -1186,10 +1186,10 @@ module.exports = {
     {
       name: "Shiverpeak Mountains [Alpine]",
       maps: [
-        { fileName: "132434.data", name: "(City) Hoelbrak" },
-        { fileName: "197122.data", name: "(City) Hoelbrak [MapAlpineHall]" },
-        { fileName: "1966018.data", name: "(City) Hoelbrak" },
-        { fileName: "2164993.data", name: "(City) Hoelbrak [MapAlpineHallDragonBash]" },
+        { fileName: "132434.data", name: "(City) Hoelbrak, Keg Brawl" },
+        { fileName: "197122.data", name: "(City) Hoelbrak, Keg Brawl [MapAlpineHall]" },
+        { fileName: "1966018.data", name: "(City) Hoelbrak, Keg Brawl" },
+        { fileName: "2164993.data", name: "(City) Hoelbrak, Keg Brawl [MapAlpineHallDragonBash]" },
         { fileName: "125199.data", name: "(1-15) Wayfarer Foothills" },
         { fileName: "187611.data", name: "(1-15) Wayfarer Foothills [MapAlpineSnowline]" },
         { fileName: "124093.data", name: "(15-25) Snowden Drifts" },
@@ -1226,7 +1226,7 @@ module.exports = {
       ]
     },
     {
-      name: "(PS) Personal Story",
+      name: "Personal Story",
       maps: [
         { fileName: "295962.data", name: "(20-60) A Vision of Darkness, A Light in the Darkness <The Grove, Cursed Shore> [MapWetlandDestiny]" },
         { fileName: "294938.data", name: "(60) The Battle of Claw Island, Retribution [MapValleyClaw]" },
@@ -1236,13 +1236,13 @@ module.exports = {
       ]
     },
     {
-      name: "(D) Dungeons",
+      name: "Dungeons",
       maps: [
         { fileName: "126840.data", name: "(30-35) Ascalonian Catacombs" },
         { fileName: "189364.data", name: "(30-35) Ascalonian Catacombs [MapRegrownCatacomb]" },
         { fileName: "287214.data", name: "(40-45) Caudecus's Manor <Queensdale> [MapValleyEstate]" },
         { fileName: "291284.data", name: "(50) Twilight Arbor [MapWetlandGarden]" },
-        { fileName: "645968.data", name: "(55-80) Twilight Arbor [MapWetlandGardenRepeat]" },
+        { fileName: "645968.data", name: "(55-80) Twilight Arbor <Twilight Arbor> [MapWetlandGardenRepeat]" },
         { fileName: "275474.data", name: "(60-65) Sorrow's Embrace [MapAlpineFurnace]" },
         { fileName: "284039.data", name: "(70-75) Citadel of Flame [MapRegrownShaman]" },
         { fileName: "276520.data", name: "(76-80) Honor of the Waves [MapAlpineIceberg]" },
@@ -1253,7 +1253,7 @@ module.exports = {
     {
       name: "(LW1) Living World Season 1: Scarlet's War",
       maps: [
-        { fileName: "520479.data", name: "(LW1.TLS, LW1.E5) Southsun Cove [MapEventValleyLost]" },
+        { fileName: "520479.data", name: "(LW1.TLS, LW1.E5) Southsun Cove, Crab Toss, Southsun Survival [MapEventValleyLost]" },
         { fileName: "568778.data", name: "(LW1.E3) Cragstead <Wayfarer Foothills, Diessa Plateau> [MapAlpineEnclave]" },
         { fileName: "580061.data", name: "(LW1.E4) Molten Facility [MapFlameFrost]" },
         { fileName: "595582.data", name: "(LW1.E7) Dragon Ball Arena [MapDragonBall]" },
@@ -1262,7 +1262,7 @@ module.exports = {
         { fileName: "605983.data", name: "(LW1.BotFW) Sanctum Sprint [MapEvenTriathlonKiteCity]" },
         { fileName: "617120.data", name: "(LW1.E9) Aspect Arena [MapEvenPVPKiteCity]" },
         { fileName: "622681.data", name: "(LW1.E10) The Crown Pavilion <Divinity's Reach> [MapJubileeArena]" },
-        { fileName: "672138.data", name: "(LW1.E13.1) The Nightmare Unveiled <Kessex Hills> [MapValleyWildernessKraitTowerInstance]" },
+        { fileName: "672138.data", name: "(LW1.E13) The Nightmare Unveiled <Kessex Hills> [MapValleyWildernessKraitTowerInstance]" },
         { fileName: "679089.data", name: "(LW1.E14) Tower of Nightmares [MapValleyWildernessKraitTowerInterior]" },
         { fileName: "2469960.data", name: "(LW1.E16) The Twisted Marionette <Lornar's Pass> [MapAlpineSlopeMarionette]" }
       ]
@@ -1274,18 +1274,18 @@ module.exports = {
         { fileName: "861770.data", name: "(LW2.E1, LW2.E2, LW2.E4) Dry Top [MapDryTopE2]" },
         { fileName: "909361.data", name: "(LW2.E5, LW2.E6, LW2.E7, LW2.E8) The Silverwastes [MapSandCastle]" },
         { fileName: "996202.data", name: "(LW2.E5, LW2.E6, LW2.E7, LW2.E8) The Silverwastes [MapSandcastleToFleet]" },
-        { fileName: "908730.data", name: "(LW2.E5.4, LW2.E8.1) Hidden Arcana, Arcana Obscura <Lornar's Pass> [MapSandGrain]" },
+        { fileName: "908730.data", name: "(LW2.E5.4) Hidden Arcana <Lornar's Pass> [MapSandGrain]" },
         { fileName: "922320.data", name: "(LW2.E7.2) Meeting the Asura <Metrica Province> [MapWetlandRiversideAsuraFirstContact]" }
       ]
     },
     {
-      name: "(HoT) Guild Wars 2: Heart of Thorns - Maguuma Jungle [Jungle]",
+      name: "(HoT) Guild Wars 2: Heart of Thorns - (Z) Zone - Maguuma Jungle [Jungle]",
       maps: [
-        { fileName: "969663.data", name: "(HoT.A1) Verdant Brink [MapJungleFleet]" },
-        { fileName: "1263739.data", name: "(HoT.A2) Auric Basin [MapJungleGold]" },
-        { fileName: "1264291.data", name: "(HoT.A3) Tangled Depths [MapJungleRoots]" },
-        { fileName: "1262310.data", name: "(HoT.A4) Dragon's Stand [MapJungleArmy]" },
-        { fileName: "1262460.data", name: "(HoT.A4.2) Hearts and Minds [MapJungleArmyNightmare]" }
+        { fileName: "969663.data", name: "(Z.1) Verdant Brink [MapJungleFleet]" },
+        { fileName: "1263739.data", name: "(Z.2) Auric Basin [MapJungleGold]" },
+        { fileName: "1264291.data", name: "(Z.3) Tangled Depths [MapJungleRoots]" },
+        { fileName: "1262310.data", name: "(Z.4) Dragon's Stand [MapJungleArmy]" },
+        { fileName: "1262460.data", name: "(HoT.16) Hearts and Minds [MapJungleArmyNightmare]" }
       ]
     },
     {
@@ -1305,15 +1305,15 @@ module.exports = {
       ]
     },
     {
-      name: "(PoF) Guild Wars 2: Path of Fire - Crystal Desert [Desert]",
+      name: "(PoF) Guild Wars 2: Path of Fire - (Z) Zone - Crystal Desert [Desert]",
       maps: [
-        { fileName: "1794574.data", name: "(PoF.A1) Crystal Oasis [MapDesertOasis]" },
-        { fileName: "1833034.data", name: "(PoF.A2) Desert Highlands [MapDesertHighlands]" },
-        { fileName: "1840368.data", name: "(PoF.A2.3, PoF.OS) Facing the Truth: The Sanctum, The Dark Library [MapDesertSanctum]" },
-        { fileName: "1840103.data", name: "(PoF.A2) Elon Riverlands [MapDesertRiver]" },
-        { fileName: "1833726.data", name: "(PoF.A2.4, PoF.A3.1) The Way Forward, The Departing <Elon Riverlands> [MapDesertMists]" },
-        { fileName: "1842533.data", name: "(PoF.A3) The Desolation [MapDesertTorment]" },
-        { fileName: "1839188.data", name: "(PoF.A3) Domain of Vabbi [MapDesertPalace]" }
+        { fileName: "1794574.data", name: "(Z.1) Crystal Oasis [MapDesertOasis]" },
+        { fileName: "1833034.data", name: "(Z.2) Desert Highlands [MapDesertHighlands]" },
+        { fileName: "1840368.data", name: "(PoF.7, PoF.OS) Facing the Truth: The Sanctum, The Dark Library [MapDesertSanctum]" },
+        { fileName: "1840103.data", name: "(Z.3) Elon Riverlands [MapDesertRiver]" },
+        { fileName: "1833726.data", name: "(PoF.8, PoF.9) The Way Forward, The Departing <Elon Riverlands> [MapDesertMists]" },
+        { fileName: "1842533.data", name: "(Z.4) The Desolation [MapDesertTorment]" },
+        { fileName: "1839188.data", name: "(Z.5) Domain of Vabbi [MapDesertPalace]" }
       ]
     },
     {
@@ -1350,7 +1350,6 @@ module.exports = {
       name: "(LW5) Living World Season 5: The Icebrood Saga - (SM) Strike Missions, (DRM) Dragon Response Missions",
       maps: [
         { fileName: "2203371.data", name: "(LW5.E0, SM.1) Grothmar Valley, Shiverpeaks Pass [MapRegrownBlood]" },
-        { fileName: "2204239.data", name: "(LW5.E0.3) Bad Blood <Grothmar Valley> [MapRegrownBloodCinematic]" },
         { fileName: "2251232.data", name: "(LW5.E1, LW5.E2) Bjora Marches [MapBjoraMarchesCombined]" },
         { fileName: "2224355.data", name: "(SM.2) Voice of the Fallen and Claw of the Fallen [MapKodanBNB]" },
         { fileName: "2224381.data", name: "(SM.3) Fraenir of Jormag [Mapshamanbnb]" },
@@ -1380,25 +1379,32 @@ module.exports = {
       ]
     },
     {
-      name: "(EoD) Guild Wars 2: End of Dragons - (SM) Strike Missions - Cantha [WORK_IN_PROGRESS]",
+      name: "(EoD) Guild Wars 2: End of Dragons - (Z) Zone, (SM) Strike Missions - Cantha [Cantha]",
       maps: [
-        { fileName: "WORK_IN_PROGRESS.data", name: "(WORK_IN_PROGRESS) Seitung Province [WORK_IN_PROGRESS]" },
-        { fileName: "WORK_IN_PROGRESS.data", name: "(WORK_IN_PROGRESS) New Kaineng City [WORK_IN_PROGRESS]" },
-        { fileName: "WORK_IN_PROGRESS.data", name: "(Lobby) Arborstone [WORK_IN_PROGRESS]" },
-        { fileName: "WORK_IN_PROGRESS.data", name: "(WORK_IN_PROGRESS) The Echovald Wilds [WORK_IN_PROGRESS]" },
-        { fileName: "WORK_IN_PROGRESS.data", name: "(WORK_IN_PROGRESS) (((Jade Sea))) [WORK_IN_PROGRESS]" }
+        { fileName: "2639738.data", name: "(EoD.1) Old Friends <Lornar's Pass> [MapAlpineSlopeX03]" },
+        { fileName: "2639795.data", name: "(EoD.1) Aetherblade Armada [MapCanthaArmada]" },
+        { fileName: "2647516.data", name: "(Z.1) Seitung Province [MapCanthaShingJea]" },
+        { fileName: "2649141.data", name: "(SM.1) Aetherblade Hideout <Seitung Province> [MapMaiTrin]" },
+        { fileName: "2645519.data", name: "(Z.2) New Kaineng City [MapCanthaKaineng]" },
+        { fileName: "2645805.data", name: "(EoD.7) Deepest Secrets: Yong Reactor [MapCanthaKainengCH5Reactor]" },
+        { fileName: "2640407.data", name: "(Lobby) Arborstone <The Echovald Wilds> [MapCanthaArborstone]" },
+        { fileName: "2641850.data", name: "(Z.3) The Echovald Wilds [MapCanthaEchovald]" },
+        { fileName: "2642769.data", name: "(SM.2) Xunlai Jade Junkyard <The Echovald Wilds> [MapCanthaEchovaldStrikeMissions]" },
+        { fileName: "2646104.data", name: "(SM.3) Kaineng Overlook <New Kaineng City> [MapCanthaKainengMinSecStrike]" },
+        { fileName: "2644196.data", name: "(Z.4) Dragon's End [MapCanthaJadeSea]" },
+        { fileName: "2644298.data", name: "(EoD.14, SM.4) The Only One, Harvest Temple [MapJadeSeaWhirlpool]" }
       ]
     },
     {
       name: "(FotM) Fractals of the Mists",
       maps: [
         { fileName: "1733961.data", name: "(Lounge) Mistlock Sanctuary [MapInfiniteCosmicVIPLounge]" },
-        { fileName: "1498016.data", name: "(FotM.0) Mistlock Observatory [MapInfiniteHub]" },
+        { fileName: "1498016.data", name: "(FotM.0) Mistlock Observatory <Fractals of the Mists> [MapInfiniteHub]" },
         { fileName: "519839.data", name: "(FotM.0-9) Fractals of the Mists [MapInfiniteIslands]" },
-        { fileName: "2187042.data", name: "(FotM.0-9) Aquatic Ruins [MapInfiniteUnderwater]" },
-        { fileName: "1426653.data", name: "(FotM.0-9) Cliffside [MapInfiniteCliffside]" },
-        { fileName: "1472382.data", name: "(FotM.0-9) Snowblind [MapInfiniteSnowblind]" },
-        { fileName: "1472406.data", name: "(FotM.0-9) Swampland [MapInfiniteSwamp]" },
+        { fileName: "2187042.data", name: "(FotM.0-9) Aquatic Ruins <Fractals of the Mists> [MapInfiniteUnderwater]" },
+        { fileName: "1426653.data", name: "(FotM.0-9) Cliffside <Fractals of the Mists> [MapInfiniteCliffside]" },
+        { fileName: "1472382.data", name: "(FotM.0-9) Snowblind <Fractals of the Mists> [MapInfiniteSnowblind]" },
+        { fileName: "1472406.data", name: "(FotM.0-9) Swampland <Fractals of the Mists> [MapInfiniteSwamp]" },
         { fileName: "1498798.data", name: "(FotM.10-14) Aetherblade, Captain Mai Trin Boss <Aetherblade Retreat> [MapValleyArchDungeonUpdated02]" },
         { fileName: "1905739.data", name: "(FotM.10-14) Molten Furnace, Molten Boss <Molten Facility> [MapFlameFrostFractalExtended]" },
         { fileName: "697450.data", name: "(FotM.10-14) Thaumanova Reactor [MapInfiniteReactor]" },
@@ -1417,7 +1423,7 @@ module.exports = {
         { fileName: "1255378.data", name: "(GH.1-2) Gilded Hollow [MapGuildCavern]" },
         { fileName: "1256064.data", name: "(GH.1-2) Lost Precipice [MapGuildHeights]" },
         { fileName: "1843274.data", name: "(GH.3) Windswept Haven [MapGuildPyramid]" },
-        { fileName: "WORK_IN_PROGRESS.data", name: "(GH.4) Isle of Reflection [WORK_IN_PROGRESS]" }
+        { fileName: "2648082.data", name: "(GH.4) Isle of Reflection [MapGuildIsle]" }
       ]
     },
     {
@@ -1528,24 +1534,26 @@ module.exports = {
         { fileName: "122695.data", name: "(((Empty Plane)))" },
         { fileName: "129834.data", name: "Lake Doric" },
         { fileName: "132853.data", name: "(((Empty Box)))" },
-        { fileName: "184799.data", name: "Dummy Map [MapDummy]" },
+        { fileName: "184799.data", name: "[MapDummy]" },
         { fileName: "193081.data", name: "Lake Doric [MapValleyReach]" },
-        { fileName: "197562.data", name: "Preparing for PvP [MapPvPBlackBox]" },
+        { fileName: "197562.data", name: "[MapPvPBlackBox]" },
         { fileName: "606030.data", name: "Basket Brawl [MapBasketBrawl]" },
-        { fileName: "875614.data", name: "(((Unknown Mists Platforms))) [MapTutorialChina]" },
-        { fileName: "969964.data", name: "Verdant Brink (PAX 2015 Demo) [MapRootsAfterShip]" },
-        { fileName: "1255516.data", name: "Guild Coliseum [MapGuildColiseum]" },
+        { fileName: "875614.data", name: "[MapTutorialChina]" },
+        { fileName: "969964.data", name: "Verdant Brink <Verdant Brink> [MapRootsAfterShip]" },
+        { fileName: "1255516.data", name: "[MapGuildColiseum]" },
         { fileName: "1255634.data", name: "(((Unknown Town)))" },
         { fileName: "1282201.data", name: "(((WvW)))" },
-        { fileName: "1498193.data", name: "Conquest Prototype [MapPvPConquestTemp]" },
-        { fileName: "1513556.data", name: "Competitive PvP Infection 2 (Valley) [MapPvPInfection2]" },
-        { fileName: "1513607.data", name: "Conquest Vine [MapPvPConquestTest_01]" },
-        { fileName: "1513620.data", name: "Conquest Islands [MapPvPConquestTest_02]" },
-        { fileName: "1513675.data", name: "Conquest Mocap [MapPvPConquestTest_04]" },
-        { fileName: "1956299.data", name: "(((Hided Inquest Lab))) [MapDesertArchipelago_Instance]" },
-        { fileName: "2224545.data", name: "(((Jaga Moraine))) [MapAlpinemoraine]" },
-        { fileName: "2224624.data", name: "(((Jaga Moraine cave))) [MapAlpineMoraineFinalInstance]" },
-        { fileName: "2257438.data", name: "(((Developer Map))) [MapTest]" }
+        { fileName: "1498193.data", name: "[MapPvPConquestTemp]" },
+        { fileName: "1513556.data", name: "[MapPvPInfection2]" },
+        { fileName: "1513607.data", name: "[MapPvPConquestTest_01]" },
+        { fileName: "1513620.data", name: "[MapPvPConquestTest_02]" },
+        { fileName: "1513675.data", name: "[MapPvPConquestTest_04]" },
+        { fileName: "1956299.data", name: "[MapDesertArchipelago_Instance]" },
+        { fileName: "2204239.data", name: "<Grothmar Valley> [MapRegrownBloodCinematic]" },
+        { fileName: "2224545.data", name: "Jaga Moraine [MapAlpinemoraine]" },
+        { fileName: "2224624.data", name: "[MapAlpineMoraineFinalInstance]" },
+        { fileName: "2257438.data", name: "[MapTest]" },
+        { fileName: "2649061.data", name: "<Grothmar Valley> [MapRegrownBlood_CinematicEOD]" }
       ]
     }
   ]
