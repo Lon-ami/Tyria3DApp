@@ -1171,16 +1171,15 @@ module.exports = {
         { fileName: "130970.data", name: "(15-25) Kessex Hills" },
         { fileName: "194288.data", name: "(15-25) Kessex Hills [MapValleyWilderness]" },
         { fileName: "861815.data", name: "(15-25) Kessex Hills [MapValleyWildernessFortSalma]" },
-        { fileName: "289176.data", name: "(25-35) Gendarran Fields [MapValleySettlement]" },
+        { fileName: "289176.data", name: "(25-35) Gendarran Fields, Vigil Headquarters [MapValleySettlement]" },
         { fileName: "191000.data", name: "(City) Lion's Arch [MapValleyArch]" },
         { fileName: "814803.data", name: "(City) Lion's Arch [MapValleyArch3]" },
         { fileName: "1796999.data", name: "(City) Lion's Arch [MapValleyArchKiel]" },
         { fileName: "1869665.data", name: "(City) Lion's Arch [MapValleyArchKielHalloween]" },
         { fileName: "1968576.data", name: "(City) Lion's Arch" },
-        { fileName: "1019669.data", name: "(Instance) Old Lion's Arch <Lion's Arch> [MapValleyArchOrig]" },
         { fileName: "287870.data", name: "(35-45) Harathi Hinterlands [MapValleyHeadland]" },
         { fileName: "286945.data", name: "(45-55) Bloodtide Coast [MapValleyCoast]" },
-        { fileName: "295005.data", name: "(Instance) Chantry of Secrets [MapValleyWhisper]" }
+        { fileName: "295005.data", name: "(45-55) Chantry of Secrets [MapValleyWhisper]" }
       ]
     },
     {
@@ -1194,12 +1193,12 @@ module.exports = {
         { fileName: "187611.data", name: "(1-15) Wayfarer Foothills [MapAlpineSnowline]" },
         { fileName: "124093.data", name: "(15-25) Snowden Drifts" },
         { fileName: "186397.data", name: "(15-25) Snowden Drifts [MapAlpinePowder]" },
-        { fileName: "277587.data", name: "(25-40) Lornar's Pass [MapAlpineSlope]" },
+        { fileName: "277587.data", name: "(25-40) Lornar's Pass, The Durmand Priory [MapAlpineSlope]" },
         { fileName: "275155.data", name: "(40-50) Dredgehaunt Cliffs [MapAlpineCrest]" },
         { fileName: "278717.data", name: "(50-60) Timberline Falls [MapAlpineTimberland]" },
         { fileName: "846866.data", name: "(50-60) Timberline Falls" },
         { fileName: "276252.data", name: "(70-80) Frostgorge Sound [MapAlpineGlacier]" },
-        { fileName: "295282.data", name: "(Instance) Eye of the North [MapAlpineMonument]" }
+        { fileName: "295282.data", name: "(80) Eye of the North [MapAlpineMonument]" }
       ]
     },
     {
@@ -1229,6 +1228,7 @@ module.exports = {
       name: "Personal Story",
       maps: [
         { fileName: "295962.data", name: "(20-60) A Vision of Darkness, A Light in the Darkness <The Grove, Cursed Shore> [MapWetlandDestiny]" },
+        { fileName: "1019669.data", name: "(40-60) Setting the Stage, Stealing Secrets, They Went Thataway, etc <Lion's Arch> [MapValleyArchOrig]" },
         { fileName: "294938.data", name: "(60) The Battle of Claw Island, Retribution [MapValleyClaw]" },
         { fileName: "1018612.data", name: "(70) Forging the Pact <Timberline Falls> [MapAlpineTimberlandBeforeConcordiaVines]" },
         { fileName: "295179.data", name: "(80) Temple of the Forgotten God <Straits of Devastation> [MapRisenBeachheadAbaddon]" },
@@ -1256,12 +1256,14 @@ module.exports = {
         { fileName: "520479.data", name: "(LW1.TLS, LW1.E5) Southsun Cove, Crab Toss, Southsun Survival [MapEventValleyLost]" },
         { fileName: "568778.data", name: "(LW1.E3) Cragstead <Wayfarer Foothills, Diessa Plateau> [MapAlpineEnclave]" },
         { fileName: "580061.data", name: "(LW1.E4) Molten Facility [MapFlameFrost]" },
+        { fileName: "2690992.data", name: "(LW1.E7) Memorials on the Pyre, The Scene of the Crime <Lion's Arch> [MapValleyArchDragon]" },
         { fileName: "595582.data", name: "(LW1.E7) Dragon Ball Arena [MapDragonBall]" },
         { fileName: "595722.data", name: "(LW1.E8) Aetherblade Retreat [MapValleyArchDungeon]" },
         { fileName: "606255.data", name: "(LW1.BotFW) Labyrinthine Cliffs [MapEvenKiteCity]" },
         { fileName: "605983.data", name: "(LW1.BotFW) Sanctum Sprint [MapEvenTriathlonKiteCity]" },
         { fileName: "617120.data", name: "(LW1.E9) Aspect Arena [MapEvenPVPKiteCity]" },
         { fileName: "622681.data", name: "(LW1.E10) The Crown Pavilion <Divinity's Reach> [MapJubileeArena]" },
+        { fileName: "2711089.data", name: "(LW1.E10) Scarlet's Playhouse <The Crown Pavilion> [MapJubileeArena-2]" },
         { fileName: "672138.data", name: "(LW1.E13) The Nightmare Unveiled <Kessex Hills> [MapValleyWildernessKraitTowerInstance]" },
         { fileName: "679089.data", name: "(LW1.E14) Tower of Nightmares [MapValleyWildernessKraitTowerInterior]" },
         { fileName: "2469960.data", name: "(LW1.E16) The Twisted Marionette <Lornar's Pass> [MapAlpineSlopeMarionette]" }
@@ -1274,7 +1276,7 @@ module.exports = {
         { fileName: "861770.data", name: "(LW2.E1, LW2.E2, LW2.E4) Dry Top [MapDryTopE2]" },
         { fileName: "909361.data", name: "(LW2.E5, LW2.E6, LW2.E7, LW2.E8) The Silverwastes [MapSandCastle]" },
         { fileName: "996202.data", name: "(LW2.E5, LW2.E6, LW2.E7, LW2.E8) The Silverwastes [MapSandcastleToFleet]" },
-        { fileName: "908730.data", name: "(LW2.E5.4) Hidden Arcana <Lornar's Pass> [MapSandGrain]" },
+        { fileName: "908730.data", name: "(LW2.E5.4) Hidden Arcana <The Durmand Priory> [MapSandGrain]" },
         { fileName: "922320.data", name: "(LW2.E7.2) Meeting the Asura <Metrica Province> [MapWetlandRiversideAsuraFirstContact]" }
       ]
     },
@@ -1332,7 +1334,7 @@ module.exports = {
         { fileName: "1956245.data", name: "(LW4.E2.5) ERROR: SIGNAL LOST [MapDesertArchipelago_Chapter5Boss_4]" },
         { fileName: "2005467.data", name: "(LW4.E3.1) Seized <Crystal Oasis> [MapDesertOasisS4E3]" },
         { fileName: "2004704.data", name: "(LW4.E3) Domain of Kourna [MapDesertMoon]" },
-        { fileName: "2044320.data", name: "(LW4.E4) Jahai Bluffs [MapDesertBluffs]" },
+        { fileName: "2044320.data", name: "(LW4.E4) Jahai Bluffs, Sun's Refuge [MapDesertBluffs]" },
         { fileName: "2044502.data", name: "(LW4.E4.5) Storm Tracking [MapDesertBluffsCh5]" },
         { fileName: "2093791.data", name: "(LW4.E5.1) Scion & Champion <Hidden Arcana> [MapThe_Begining]" },
         { fileName: "2092435.data", name: "(LW4.E5) Thunderhead Peaks [MapAlpineKeep]" },
@@ -1381,6 +1383,7 @@ module.exports = {
     {
       name: "(EoD) Guild Wars 2: End of Dragons - (Z) Zone, (SM) Strike Missions - Cantha [Cantha]",
       maps: [
+        { fileName: "2669133.data", name: "(Lounge) Thousand Seas Pavilion [MapMTXLounge]" },
         { fileName: "2639738.data", name: "(EoD.1) Old Friends <Lornar's Pass> [MapAlpineSlopeX03]" },
         { fileName: "2639795.data", name: "(EoD.1) Aetherblade Armada [MapCanthaArmada]" },
         { fileName: "2647516.data", name: "(Z.1) Seitung Province [MapCanthaShingJea]" },
@@ -1392,7 +1395,7 @@ module.exports = {
         { fileName: "2642769.data", name: "(SM.2) Xunlai Jade Junkyard <The Echovald Wilds> [MapCanthaEchovaldStrikeMissions]" },
         { fileName: "2646104.data", name: "(SM.3) Kaineng Overlook <New Kaineng City> [MapCanthaKainengMinSecStrike]" },
         { fileName: "2644196.data", name: "(Z.4) Dragon's End [MapCanthaJadeSea]" },
-        { fileName: "2644298.data", name: "(EoD.14, SM.4) The Only One, Harvest Temple [MapJadeSeaWhirlpool]" }
+        { fileName: "2702043.data", name: "(SM.4) Harvest Temple <Dragon's End> [MapCanthaJadeSeaStrikeMission]" }
       ]
     },
     {
@@ -1553,7 +1556,9 @@ module.exports = {
         { fileName: "2224545.data", name: "Jaga Moraine [MapAlpinemoraine]" },
         { fileName: "2224624.data", name: "[MapAlpineMoraineFinalInstance]" },
         { fileName: "2257438.data", name: "[MapTest]" },
-        { fileName: "2649061.data", name: "<Grothmar Valley> [MapRegrownBlood_CinematicEOD]" }
+        { fileName: "2649061.data", name: "<Grothmar Valley> [MapRegrownBlood_CinematicEOD]" },
+        { fileName: "2644298.data", name: "[MapJadeSeaWhirlpool]" },
+        { fileName: "2689589.data", name: "<Desert Highlands> [MapDesertHighlandsE3]" }
       ]
     }
   ]
