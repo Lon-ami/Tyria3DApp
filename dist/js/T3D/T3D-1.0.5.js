@@ -1255,7 +1255,7 @@ module.exports = {
       maps: [
         { fileName: "520479.data", name: "(LW1.TLS, LW1.E5) Southsun Cove, Crab Toss, Southsun Survival [MapEventValleyLost]" },
         { fileName: "568778.data", name: "(LW1.E3) Cragstead <Wayfarer Foothills, Diessa Plateau> [MapAlpineEnclave]" },
-        { fileName: "580061.data", name: "(LW1.E4) Molten Facility [MapFlameFrost]" },
+        { fileName: "580061.data", name: "(LW1.E4) Molten Furnace [MapFlameFrost]" },
         { fileName: "2690992.data", name: "(LW1.E7) Memorials on the Pyre, The Scene of the Crime <Lion's Arch> [MapValleyArchDragon]" },
         { fileName: "595582.data", name: "(LW1.E7) Dragon Ball Arena [MapDragonBall]" },
         { fileName: "595722.data", name: "(LW1.E8) Aetherblade Retreat [MapValleyArchDungeon]" },
@@ -1264,8 +1264,9 @@ module.exports = {
         { fileName: "617120.data", name: "(LW1.E9) Aspect Arena [MapEvenPVPKiteCity]" },
         { fileName: "622681.data", name: "(LW1.E10) The Crown Pavilion <Divinity's Reach> [MapJubileeArena]" },
         { fileName: "2711089.data", name: "(LW1.E10) Scarlet's Playhouse <The Crown Pavilion> [MapJubileeArena-2]" },
+        { fileName: "2737234.data", name: "(LW1.E13) Kessex Hills [MapValleyWildernessTower]" },
         { fileName: "672138.data", name: "(LW1.E13) The Nightmare Unveiled <Kessex Hills> [MapValleyWildernessKraitTowerInstance]" },
-        { fileName: "679089.data", name: "(LW1.E14) Tower of Nightmares [MapValleyWildernessKraitTowerInterior]" },
+        { fileName: "679089.data", name: "(LW1.E14) The Tower of Nightmares [MapValleyWildernessKraitTowerInterior]" },
         { fileName: "2469960.data", name: "(LW1.E16) The Twisted Marionette <Lornar's Pass> [MapAlpineSlopeMarionette]" }
       ]
     },
