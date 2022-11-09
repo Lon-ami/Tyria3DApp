@@ -1171,9 +1171,9 @@ module.exports = {
         { fileName: "130970.data", name: "(15-25) Kessex Hills" },
         { fileName: "194288.data", name: "(15-25) Kessex Hills [MapValleyWilderness]" },
         { fileName: "861815.data", name: "(15-25) Kessex Hills [MapValleyWildernessFortSalma]" },
+        { fileName: "2737234.data", name: "(15-25) Kessex Hills [MapValleyWildernessTower]" },
         { fileName: "289176.data", name: "(25-35) Gendarran Fields, Vigil Headquarters [MapValleySettlement]" },
         { fileName: "191000.data", name: "(City) Lion's Arch [MapValleyArch]" },
-        { fileName: "814803.data", name: "(City) Lion's Arch [MapValleyArch3]" },
         { fileName: "1796999.data", name: "(City) Lion's Arch [MapValleyArchKiel]" },
         { fileName: "1869665.data", name: "(City) Lion's Arch [MapValleyArchKielHalloween]" },
         { fileName: "1968576.data", name: "(City) Lion's Arch" },
@@ -1198,7 +1198,7 @@ module.exports = {
         { fileName: "278717.data", name: "(50-60) Timberline Falls [MapAlpineTimberland]" },
         { fileName: "846866.data", name: "(50-60) Timberline Falls" },
         { fileName: "276252.data", name: "(70-80) Frostgorge Sound [MapAlpineGlacier]" },
-        { fileName: "295282.data", name: "(80) Eye of the North [MapAlpineMonument]" }
+        { fileName: "295282.data", name: "(HoM) Eye of the North [MapAlpineMonument]" }
       ]
     },
     {
@@ -1228,8 +1228,8 @@ module.exports = {
       name: "Personal Story",
       maps: [
         { fileName: "295962.data", name: "(20-60) A Vision of Darkness, A Light in the Darkness <The Grove, Cursed Shore> [MapWetlandDestiny]" },
-        { fileName: "1019669.data", name: "(40-60) Setting the Stage, Stealing Secrets, They Went Thataway, etc <Lion's Arch> [MapValleyArchOrig]" },
-        { fileName: "294938.data", name: "(60) The Battle of Claw Island, Retribution [MapValleyClaw]" },
+        { fileName: "1019669.data", name: "(40-60) Old Lion's Arch [MapValleyArchOrig]" },
+        { fileName: "294938.data", name: "(60) Claw Island [MapValleyClaw]" },
         { fileName: "1018612.data", name: "(70) Forging the Pact <Timberline Falls> [MapAlpineTimberlandBeforeConcordiaVines]" },
         { fileName: "295179.data", name: "(80) Temple of the Forgotten God <Straits of Devastation> [MapRisenBeachheadAbaddon]" },
         { fileName: "473765.data", name: "(80) Victory or Death <The Ruined City of Arah> [MapRisenDragonStory]" }
@@ -1253,10 +1253,11 @@ module.exports = {
     {
       name: "(LW1) Living World Season 1: Scarlet's War",
       maps: [
+        { fileName: "2771534.data", name: "(Lounge) Memory of Old Lion's Arch <Old Lion's Arch> [MapValleyArchProbed]" },
         { fileName: "520479.data", name: "(LW1.TLS, LW1.E5) Southsun Cove, Crab Toss, Southsun Survival [MapEventValleyLost]" },
         { fileName: "568778.data", name: "(LW1.E3) Cragstead <Wayfarer Foothills, Diessa Plateau> [MapAlpineEnclave]" },
         { fileName: "580061.data", name: "(LW1.E4) Molten Furnace [MapFlameFrost]" },
-        { fileName: "2690992.data", name: "(LW1.E7) Memorials on the Pyre, The Scene of the Crime <Lion's Arch> [MapValleyArchDragon]" },
+        { fileName: "2690992.data", name: "(LW1.E7) Memorials on the Pyre, The Scene of the Crime <Old Lion's Arch> [MapValleyArchDragon]" },
         { fileName: "595582.data", name: "(LW1.E7) Dragon Ball Arena [MapDragonBall]" },
         { fileName: "595722.data", name: "(LW1.E8) Aetherblade Retreat [MapValleyArchDungeon]" },
         { fileName: "606255.data", name: "(LW1.BotFW) Labyrinthine Cliffs [MapEvenKiteCity]" },
@@ -1264,10 +1265,13 @@ module.exports = {
         { fileName: "617120.data", name: "(LW1.E9) Aspect Arena [MapEvenPVPKiteCity]" },
         { fileName: "622681.data", name: "(LW1.E10) The Crown Pavilion <Divinity's Reach> [MapJubileeArena]" },
         { fileName: "2711089.data", name: "(LW1.E10) Scarlet's Playhouse <The Crown Pavilion> [MapJubileeArena-2]" },
-        { fileName: "2737234.data", name: "(LW1.E13) Kessex Hills [MapValleyWildernessTower]" },
         { fileName: "672138.data", name: "(LW1.E13) The Nightmare Unveiled <Kessex Hills> [MapValleyWildernessKraitTowerInstance]" },
         { fileName: "679089.data", name: "(LW1.E14) The Tower of Nightmares [MapValleyWildernessKraitTowerInterior]" },
-        { fileName: "2469960.data", name: "(LW1.E16) The Twisted Marionette <Lornar's Pass> [MapAlpineSlopeMarionette]" }
+        { fileName: "2469960.data", name: "(LW1.E16) The Twisted Marionette <Lornar's Pass> [MapAlpineSlopeMarionette]" },
+        { fileName: "2770873.data", name: "(LW1.E18) The Battle For Lion's Arch <Old Lion's Arch> [MapValleyArch2]" },
+        { fileName: "2773298.data", name: "(LW1.E18) North Evacuation Camp <Gendarran Fields> [MapValleySettlementFeb2014]" },
+        { fileName: "2771205.data", name: "(LW1.E20) Lion's Arch: Honored Guests <Old Lion's Arch> [MapValleyArch3]" },
+        { fileName: "2771205.data", name: "(SM) Old Lion's Court <The Battle For Lion's Arch> [MapValleyArch2Strike]" }
       ]
     },
     {
@@ -1410,9 +1414,9 @@ module.exports = {
         { fileName: "1472382.data", name: "(FotM.0-9) Snowblind <Fractals of the Mists> [MapInfiniteSnowblind]" },
         { fileName: "1472406.data", name: "(FotM.0-9) Swampland <Fractals of the Mists> [MapInfiniteSwamp]" },
         { fileName: "1498798.data", name: "(FotM.10-14) Aetherblade, Captain Mai Trin Boss <Aetherblade Retreat> [MapValleyArchDungeonUpdated02]" },
-        { fileName: "1905739.data", name: "(FotM.10-14) Molten Furnace, Molten Boss <Molten Facility> [MapFlameFrostFractalExtended]" },
+        { fileName: "1905739.data", name: "(FotM.10-14) Molten Furnace, Molten Boss <Molten Furnace> [MapFlameFrostFractalExtended]" },
         { fileName: "697450.data", name: "(FotM.10-14) Thaumanova Reactor [MapInfiniteReactor]" },
-        { fileName: "1472361.data", name: "(FotM.15) Chaos [MapInfiniteChaos]" },
+        { fileName: "1472361.data", name: "(FotM.15) Chaos Isles [MapInfiniteChaos]" },
         { fileName: "1605344.data", name: "(FotM.16) Nightmare [MapInfiniteToxic]" },
         { fileName: "1733857.data", name: "(FotM.17) Shattered Observatory [MapInfiniteCosmic]" },
         { fileName: "1905889.data", name: "(FotM.18) Twilight Oasis [MapInfiniteMordant]" },
